@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964304915582",
+    "project_id": "stock-inventory-mgr",
+    "storage_bucket": "stock-inventory-mgr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964304915582:android:3a47a8e508d5ff1a389c2f",
+        "android_client_info": {
+          "package_name": "com.example.stock_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJlsrl4VpzmPF6xFYPF-DSLBa2yDnx4VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
